@@ -1,0 +1,23 @@
+name: student_project_JonathanWillnow
+channels:
+  - conda-forge
+dependencies:
+- numpy
+- pandas
+- jupyterlab
+- matplotlib
+- seaborn
+- linearmodels
+- scipy
+- more-itertools
+- statsmodels
+- GDAL
+- pyproj
+- fiona
+- Shapely
+- geopandas
+- descartes
+- pip
+- pip:
+
+
